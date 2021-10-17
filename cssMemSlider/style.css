@@ -229,7 +229,7 @@ body input[type='radio'] {
     font-size: 1rem;
   }
   .slider-btns {
-    top: -3%;
+    top: -2%;
   }
   .slide {
     width: 1.5rem;
@@ -239,10 +239,9 @@ body input[type='radio'] {
 @media (max-width: 700px) {
   .slider-btns {
     justify-content: center;
-    top: 2%;
   }
   .slider-btns {
-    top: -8%;
+    top: -5%;
     left: 0;
   }
   .slide-img {
